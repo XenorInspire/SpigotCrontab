@@ -1,0 +1,4 @@
+name: Crontab
+version: 1.0
+main: fr.nick.crontab.Crontab
+api-version: 1.13
